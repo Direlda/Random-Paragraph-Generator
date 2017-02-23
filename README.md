@@ -45,8 +45,8 @@ The format of the entries looks like the following:
 ## Current Tasks
 - [x] Re-write dictionary files from XML into JSON
 - [x] Re-write current version of program from C# into Python
-- [] Develop a system for tracking agreement
-- [] Develop a system for handling multiple tenses
-- [] Develop a system for handling verb complements
-- [] Develop a system for question inversion
-- [] Investigate HPSGs to see if those would work better
+- [ ] Develop a system for tracking agreement
+- [ ] Develop a system for handling multiple tenses
+- [ ] Develop a system for handling verb complements
+- [ ] Develop a system for question inversion
+- [ ] Investigate HPSGs to see if those would work better
