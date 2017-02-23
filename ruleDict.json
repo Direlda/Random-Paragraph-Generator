@@ -1,0 +1,43 @@
+{"TP":
+    {"outputs":
+        ["DP VP"],
+    "weights":
+        [50]
+    },
+"DP":
+    {"outputs":
+        ["D NP"],
+    "weights":
+        [50]
+    },
+"NP":
+    {"outputs":
+        ["AdjP N", "N PP", "N Conj N", "N"],
+    "weights":
+        [15, 30, 40, 90]
+    },
+"VP":
+    {"outputs":
+        ["V PP", "V AdvP", "V DP", "V"],
+    "weights":
+        [25, 35, 60, 85]
+    },
+"AdvP":
+    {"outputs":
+        ["Adv"],
+    "weights":
+        [50]
+    },
+"AdjP":
+    {"outputs":
+        ["AdvP Adj", "Adj"],
+    "weights":
+        [15, 65]
+    },
+"PP":
+    {"outputs":
+        ["P DP"],
+    "weights":
+        [50]
+    }
+}

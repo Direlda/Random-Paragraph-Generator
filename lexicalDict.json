@@ -1,0 +1,16 @@
+{"N":
+    ["fox", "vixen", "den", "cat", "wood", "wolf", "city", "fire",
+     "kitsune", "book", "boat", "fish", "mallet", "justice"],
+"V":
+    ["runs", "sleeps", "lives", "mallets", "falls", "watches", "loves"],
+"Adv":
+    ["happily", "angrily", "sadly", "savagely", "quickly"],
+"Adj":
+    ["cute", "long", "loyal", "sick", "superb", "great"],
+"P":
+    ["in", "with", "to", "for", "on", "by"],
+"D":
+    ["the", "a", "this", "that", "one"],
+"Conj":
+    ["and", "or"]
+}
