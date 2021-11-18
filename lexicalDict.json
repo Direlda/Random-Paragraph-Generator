@@ -1,16 +1,38 @@
 {"N":
     ["fox", "vixen", "den", "cat", "wood", "wolf", "city", "fire",
-     "kitsune", "book", "boat", "fish", "mallet", "justice"],
+     "kitsune", "book", "boat", "fish", "mallet", "justice", "dragon",
+    "derg", "kit", "tree", "coyote", "sword", "tea", "man", "woman",
+    "boy", "girl", "friend", "bird", "birb", "rival", "garden",
+    "forest", "stone", "rock", "house", "village", "pond", "purse",
+    "hideout", "treehouse", "piano", "forum", "server", "castle",
+    "desk", "table", "chair", "computer", "phone", "cloud", "star",
+    "moon", "sun", "husky", "rat", "furry", "window", "widow", "stair",
+    "ship", "elf", "dwarf", "werewolf", "waterfall", "river", "creek",
+    "shoal", "island", "mist", "cup", "plate", "gold", "silver", "hair",
+    "head"],
 "V":
-    ["runs", "sleeps", "lives", "mallets", "falls", "watches", "loves"],
+    ["runs", "sleeps", "lives", "mallets", "falls", "watches", "loves",
+    "calls", "hugs", "hears", "writes", "blesses", "holds", "fears",
+    "finds", "loses", "meets", "plays", "plants", "spins", "hides",
+    "drops", "glomps", "treasures", "directs", "follows", "sees",
+    "defends", "attacks", "knows"],
 "Adv":
-    ["happily", "angrily", "sadly", "savagely", "quickly"],
+    ["happily", "angrily", "sadly", "savagely", "quickly", "fondly",
+    "openly", "ordinarily", "quietly", "peacefully", "carefully",
+    "slowly", "badly", "closely", "easily", "well", "fast", "far",
+    "cheerfully", "tiredly", "wisely"],
 "Adj":
-    ["cute", "long", "loyal", "sick", "superb", "great"],
+    ["cute", "long", "loyal", "sick", "superb", "great", "green",
+    "red", "orange", "large", "hot", "cold", "small", "adorable",
+    "feared", "silver", "golden", "warm", "short", "helpful",
+    "courteous", "trustworthy", "friendly", "brave", "clean",
+    "reverent", "obedient", "kind", "cheerful", "thrifty",
+    "blue", "yellow", "black", "white", "tan", "gray", "old",
+    "young", "fiesty", "cool", "tired", "wise", "serious"],
 "P":
-    ["in", "with", "to", "for", "on", "by"],
+    ["in", "with", "to", "for", "on", "by", "at", "from", "of"],
 "D":
     ["the", "a", "this", "that", "one"],
 "Conj":
-    ["and", "or"]
+    ["and", "or", "for", "but", "yet", "so", "nor"]
 }
